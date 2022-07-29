@@ -1,0 +1,40 @@
+*{
+    margin:0;
+    padding: 0;
+    box-sizing:border-box;
+}
+body{
+    background-color: rgb(11, 6, 38);
+}
+#container{
+    background-color: rgb(14, 4, 86);
+    height: 300px;
+    width: 300px;
+    text-align: center;
+    margin: 150px auto auto auto;
+    float: center;
+    box-shadow: 0 15px 25px rgb(40,13,69);
+    border-radius: 15px;
+}
+h1{
+    color: aliceblue;
+}
+.name_field{
+    background-color: aqua
+}
+#Add{
+    color: white;
+    background-color: green;
+    border-radius: 10px;
+    display: inline-block;
+    border: none;
+    padding: 15px 15px;
+}
+#Delete{
+    color: white;
+    background-color:red;
+    border-radius: 10px;
+    display: inline-block;
+    border: none;
+    padding: 15px 15px;
+}
